@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Gabriel Sucaria con la participacion de su hijo Leandro Sucaria
+Main-Class: Bienvenida
+X-COMMENT: Curso java
+ 
